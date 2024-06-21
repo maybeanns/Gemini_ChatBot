@@ -9,7 +9,7 @@ This is a simple chatbot application built using Streamlit and Google's Generati
 - Custom Navbar Background: Displays navbar with multipage functionality (you can customize that yourself ❤️‍🩹).
 ## Setup Instructions
 Prerequisites
-- Python 3.7 or later
+- Python 3.4 or later
 - A Google API key for the Generative AI service
 
 ## Installation
